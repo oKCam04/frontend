@@ -1,0 +1,35 @@
+body{
+    background-color:azure;
+}
+.h1{
+    color:cornsilk;
+    text-align: center;
+}
+.tablaUser{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 120px;
+    text-align: center;
+    justify-content: center;
+}
+
+.tablaUser th{
+    border:1px solid #FEF9E1;
+    padding: 10px;
+    text-align: center;
+    background-color: #410445;
+
+}
+
+.tablaUser td{
+    border:1px solid #F6F0F0;
+    padding: 10px;
+    text-align: center;
+    background-color: #A5158C;
+}
+.edit{
+    background-color: #FF2DF1;
+}
+.delete{
+    background-color: #F6DC43;
+}
