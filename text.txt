@@ -1,0 +1,4 @@
+navegación por rutas fue el tema pasado, lo vemos en app que tenemos una lista que llamamos los componentes consumoReserva(get), crearReserva(post)
+
+cuando usemos las rutas en app instalar el componente react-router-dom
+npm install react-router-dom
